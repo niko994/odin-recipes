@@ -3,10 +3,12 @@
 h1 {
     background-color: yellow;
     color: blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
 
 ol {
-    background-color: black;
+    background-color: rgb(230, 33, 197);
     color: white;
 }
 
@@ -18,15 +20,24 @@ ul {
 p {
     background-color: transparent;
     color: green;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h2 {
     background-color: transparent;
     color: rgb(8, 177, 189);
+    font-weight:bold;
 }
 
 h3 {
     background-color: transparent;
     color: purple;
+    font-weight: bold;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;    
+}
