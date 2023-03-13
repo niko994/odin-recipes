@@ -1,0 +1,32 @@
+/* styles.css */
+
+h1 {
+    background-color: yellow;
+    color: blue;
+}
+
+ol {
+    background-color: black;
+    color: white;
+}
+
+ul {
+    background-color: transparent;
+    color: red;
+}
+
+p {
+    background-color: transparent;
+    color: green;
+}
+
+h2 {
+    background-color: transparent;
+    color: rgb(8, 177, 189);
+}
+
+h3 {
+    background-color: transparent;
+    color: purple;
+}
+
